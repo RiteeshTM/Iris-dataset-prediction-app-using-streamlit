@@ -5,9 +5,8 @@ This repository contains a machine learning application built using Streamlit. T
 ## Features
 
 - User-friendly interface
-- Multiple machine learning models
+- Random Forest machine learning models
 - Real-time predictions
-- Data visualization
 
 ## Installation
 
